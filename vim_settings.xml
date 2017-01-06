@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1483739495234">
-        <mark key="'" line="231" column="62" />
+      <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1483740973987">
+        <mark key="'" line="231" column="61" />
       </file>
       <file name="/Python Console" timestamp="1483215445590">
         <mark key="[" line="0" column="0" />
@@ -26,9 +26,10 @@
     <jumps>
       <jump line="102" column="11" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
       <jump line="152" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="105" column="37" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="192" column="17" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="231" column="62" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="192" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="231" column="61" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -41,13 +42,13 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>shared_executor</text>
+        <text>_shared_executor</text>
       </register>
     </registers>
     <search>
-      <last-search>shared_executor</last-search>
+      <last-search>_shared_executor</last-search>
       <last-offset />
-      <last-pattern>shared_executor</last-pattern>
+      <last-pattern>_shared_executor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -55,6 +56,7 @@
       <history-search>
         <entry>modules</entry>
         <entry>shared_executor</entry>
+        <entry>_shared_executor</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
