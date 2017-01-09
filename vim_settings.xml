@@ -20,7 +20,8 @@
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1483993772625">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1483999704076">
+        <mark key="'" line="116" column="6" />
         <mark key="[" line="38" column="85" />
         <mark key="]" line="39" column="7" />
         <mark key="^" line="39" column="7" />
@@ -112,6 +113,8 @@
       <jump line="127" column="14" filename="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" />
       <jump line="196" column="43" filename="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" />
       <jump line="384" column="9" filename="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="116" column="6" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -130,13 +133,13 @@
         <text>CLI</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text>Compact</text>
       </register>
     </registers>
     <search>
-      <last-search>execute</last-search>
+      <last-search>Compact</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern>Compact</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -160,6 +163,7 @@
         <entry>&quot;</entry>
         <entry>exexute</entry>
         <entry>execute</entry>
+        <entry>Compact</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
