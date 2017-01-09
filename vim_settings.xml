@@ -21,6 +21,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1483989856018" />
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1483997040775">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="114" column="41" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2016.3/idea.properties" timestamp="1483157835948">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -92,6 +98,7 @@
       <jump line="1341" column="29" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="1287" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="1289" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -110,13 +117,13 @@
         <text>CLI</text>
       </register>
       <register name="/" type="4">
-        <text>run_raw</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
-      <last-search>run_raw</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>run_raw</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -137,6 +144,7 @@
         <entry>use_archive</entry>
         <entry>LOG</entry>
         <entry>run_raw</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
