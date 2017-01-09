@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1483994317397">
-        <mark key="'" line="159" column="45" />
-        <mark key="[" line="159" column="79" />
-        <mark key="]" line="159" column="82" />
-        <mark key="." line="159" column="82" />
-        <mark key="^" line="159" column="82" />
+      <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1483995189874">
+        <mark key="'" line="1291" column="16" />
+        <mark key="[" line="163" column="62" />
+        <mark key="]" line="163" column="62" />
+        <mark key="." line="163" column="62" />
+        <mark key="^" line="163" column="65" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1483993854895">
-        <mark key="'" line="203" column="14" />
-        <mark key="[" line="455" column="35" />
-        <mark key="]" line="455" column="40" />
-        <mark key="^" line="455" column="40" />
-        <mark key="." line="455" column="40" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1483995185943">
+        <mark key="'" line="505" column="12" />
+        <mark key="[" line="455" column="72" />
+        <mark key="]" line="455" column="72" />
+        <mark key="^" line="455" column="75" />
+        <mark key="." line="455" column="72" />
       </file>
       <file name="/Python Console" timestamp="1483215445590">
         <mark key="[" line="0" column="0" />
@@ -83,13 +83,22 @@
       <jump line="92" column="40" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="203" column="14" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="159" column="45" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="689" column="19" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="445" column="33" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="449" column="43" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="505" column="12" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="161" column="58" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="1330" column="29" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="1341" column="29" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="1287" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="1289" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>CLI</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CiAgICAgICAgIyBleGVjdXRlIHF1ZXJ5IHRocm91Z2ggUGludGVyZXN0IEhpdmUKICAgICAgICBzZWxmLl9VU0VfUElOVEVSRVNUX0hJVkVfQ0xJID0gVHJ1ZQogICAgICAgIHNlbGYuZXhlY3V0b3IuY29uZmlnLlVTRV9QSU5URVJFU1RfSElWRV9DTEkgPSBUcnVlCiAgICAgICAgc2VsZi5leGVjdXRvci5jb25maWcuVVNFX1BJTlRFUkVTVF9ISVZFX1RIUklGVF9DTElFTlQgPSBGYWxzZQogICAgICAgIHNlbGYuX2pvYl9vdXRwdXQsIHNlbGYuX2pvYl9zdGRlcnIsIHNlbGYuX2pvYl9pZHMgPSBzZWxmLmV4ZWN1dG9yLnJ1bl9yYXdfaGl2ZV9xdWVyeSgKICAgICAgICAgICAgc2VsZi5fZ2V0X3F1ZXJ5X3RlbXBsYXRlKCkgJSBzZWxmLnBhcmFtcywKICAgICAgICAgICAgdXBsb2FkX2FyY2hpdmU9c2VsZi5fVVBMT0FEX0FSQ0hJVkUpCiAgICAgICAgcGludGVyZXN0X2hpdmVfcmVzdWx0ID0gc2VsZi5fam9iX291dHB1dAogICAgICAgIExPRy5pbmZvKCJQaW50ZXJlc3QgSGl2ZSByZXN1bHQ6XG4lcyIsIHBwcmludC5wZm9ybWF0KHBpbnRlcmVzdF9oaXZlX3Jlc3VsdCkpCg==</text>
@@ -98,16 +107,16 @@
         <text>wa</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>CLI</text>
       </register>
       <register name="/" type="4">
-        <text>run_raw_hive_query_using_pinterest_cli</text>
+        <text>run_raw</text>
       </register>
     </registers>
     <search>
-      <last-search>run_raw_hive_query_using_pinterest_cli</last-search>
+      <last-search>run_raw</last-search>
       <last-offset />
-      <last-pattern>run_raw_hive_query_using_pinterest_cli</last-pattern>
+      <last-pattern>run_raw</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -118,12 +127,16 @@
         <entry>_shared_executor</entry>
         <entry>--auto_end_date</entry>
         <entry>auto_end_date</entry>
-        <entry>run_hive</entry>
         <entry>config._USE_PINTEREST_HIVE_CLI</entry>
         <entry>_USE</entry>
         <entry>log</entry>
         <entry>run_hive_query</entry>
         <entry>run_raw_hive_query_using_pinterest_cli</entry>
+        <entry>run_hive</entry>
+        <entry>s3cmd get s3:</entry>
+        <entry>use_archive</entry>
+        <entry>LOG</entry>
+        <entry>run_raw</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
