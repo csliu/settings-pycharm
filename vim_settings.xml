@@ -1,13 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1483740973987">
-        <mark key="'" line="231" column="61" />
-      </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1483989725593">
-        <mark key="'" line="596" column="13" />
+        <mark key="'" line="251" column="61" />
       </file>
       <file name="/Python Console" timestamp="1483215445590">
         <mark key="[" line="0" column="0" />
@@ -26,8 +23,18 @@
         <mark key="^" line="97" column="11" />
         <mark key="." line="97" column="11" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1483988841384">
-        <mark key="'" line="696" column="75" />
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1483992306162">
+        <mark key="'" line="42" column="29" />
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1483991850883">
+        <mark key="'" line="474" column="29" />
+        <mark key="[" line="1413" column="29" />
+        <mark key="]" line="1413" column="29" />
+        <mark key="." line="1413" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -48,25 +55,34 @@
       <jump line="555" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="578" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="596" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="474" column="29" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="153" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="155" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="163" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="166" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>run_hive_query</text>
+        <text>_USE</text>
       </register>
     </registers>
     <search>
-      <last-search>run_hive_query</last-search>
+      <last-search>_USE</last-search>
       <last-offset />
-      <last-pattern>run_hive_query</last-pattern>
+      <last-pattern>_USE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -79,8 +95,11 @@
         <entry>auto_end_date</entry>
         <entry>run_hive</entry>
         <entry>run_hive_query</entry>
+        <entry>config._USE_PINTEREST_HIVE_CLI</entry>
+        <entry>_USE</entry>
       </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
