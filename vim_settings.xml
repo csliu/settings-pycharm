@@ -22,6 +22,9 @@
         <mark key="^" line="97" column="11" />
         <mark key="." line="97" column="11" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1483988841384">
+        <mark key="'" line="696" column="75" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="102" column="11" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
@@ -30,6 +33,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="192" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="231" column="61" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="1396" column="30" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
+      <jump line="1983" column="67" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
+      <jump line="638" column="43" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
+      <jump line="651" column="20" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
+      <jump line="696" column="75" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -42,13 +50,13 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>_shared_executor</text>
+        <text>auto_end_date</text>
       </register>
     </registers>
     <search>
-      <last-search>_shared_executor</last-search>
+      <last-search>auto_end_date</last-search>
       <last-offset />
-      <last-pattern>_shared_executor</last-pattern>
+      <last-pattern>auto_end_date</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -57,6 +65,8 @@
         <entry>modules</entry>
         <entry>shared_executor</entry>
         <entry>_shared_executor</entry>
+        <entry>--auto_end_date</entry>
+        <entry>auto_end_date</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
