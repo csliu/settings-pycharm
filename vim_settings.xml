@@ -60,12 +60,12 @@
       <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484028763529">
+      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484029621691">
         <mark key="'" line="232" column="55" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="20" column="34" />
+        <mark key="[" line="234" column="33" />
+        <mark key="]" line="234" column="36" />
+        <mark key="^" line="234" column="36" />
+        <mark key="." line="234" column="36" />
       </file>
       <file name="$USER_HOME$/code/pinflow/pinflow/cli.py" timestamp="1484012774706">
         <mark key="'" line="823" column="44" />
@@ -184,10 +184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>MAPREDUCE_JOB_TAGS_PARAM</text>
