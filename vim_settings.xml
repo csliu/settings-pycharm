@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1484002230659">
-        <mark key="'" line="1286" column="16" />
+      <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1484007735598">
+        <mark key="'" line="1296" column="16" />
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="175" column="13" />
+        <mark key="^" line="175" column="13" />
+        <mark key="." line="175" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1483998200036">
         <mark key="[" line="0" column="0" />
@@ -18,25 +22,27 @@
       <file name="/Python Console" timestamp="1483215445590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1483989856018" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1484007433227">
+        <mark key="'" line="54" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484006720510">
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="123" column="13" />
-        <mark key="." line="123" column="13" />
-        <mark key="^" line="123" column="13" />
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484010333559">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="129" column="16" />
+        <mark key="]" line="129" column="19" />
+        <mark key="." line="129" column="19" />
+        <mark key="^" line="129" column="19" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484002110697">
-        <mark key="'" line="700" column="32" />
-        <mark key="[" line="455" column="72" />
-        <mark key="]" line="455" column="72" />
-        <mark key="^" line="455" column="75" />
-        <mark key="." line="455" column="72" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484007532093">
+        <mark key="'" line="464" column="0" />
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="456" column="0" />
+        <mark key="." line="456" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1483997040775">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
+        <mark key="'" line="114" column="37" />
         <mark key="[" line="114" column="41" />
         <mark key="]" line="114" column="42" />
         <mark key="." line="114" column="42" />
@@ -60,7 +66,7 @@
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/tools/workflow_util.py" timestamp="1484003867235">
         <mark key="'" line="1179" column="22" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1483991850883">
+      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1484007987377">
         <mark key="'" line="474" column="29" />
         <mark key="[" line="1413" column="29" />
         <mark key="]" line="1413" column="29" />
@@ -86,13 +92,11 @@
       <jump line="578" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="596" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="474" column="29" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="153" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="155" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="163" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="166" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="33" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="41" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="42" column="29" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="76" column="37" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="77" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
@@ -151,52 +155,76 @@
       <jump line="289" column="35" filename="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" />
       <jump line="459" column="22" filename="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" />
       <jump line="516" column="26" filename="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" />
+      <jump line="54" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" />
+      <jump line="462" column="0" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="114" column="37" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" />
+      <jump line="148" column="10" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="149" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="117" column="18" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="119" column="24" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="37" column="38" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="96" column="48" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="31" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzPXRydWU7CiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi50eXBlPUJMT0NLOwogICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>regexp_replace(regexp_replace(regexp_replace(json, '\\n', ''), '\\t', ''), '\\r', ''))</text>
+      </register>
+      <register name="/" type="4">
+        <text>_USE</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tU0VMRUNUIFRSQU5TRk9STShkdCwgcmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UoanNvbiwgJ1xcbicsICcnKSwgJ1xcdCcsICcnKSwgJ1xccicsICcnKSkK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzPXRydWU7CiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi50eXBlPUJMT0NLOwogICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZWYgX2V4ZWN1dGUoc2VsZik6CiAgICAgICAgIyBleGVjdXRlIHF1ZXJ5IHRocm91Z2ggUGludGVyZXN0IEhpdmUKICAgICAgICBzZWxmLl9VU0VfUElOVEVSRVNUX0hJVkVfQ0xJID0gVHJ1ZQogICAgICAgIHNlbGYuZXhlY3V0b3IuY29uZmlnLlVTRV9QSU5URVJFU1RfSElWRV9DTEkgPSBUcnVlCiAgICAgICAgc2VsZi5leGVjdXRvci5jb25maWcuVVNFX1BJTlRFUkVTVF9ISVZFX1RIUklGVF9DTElFTlQgPSBGYWxzZQogICAgICAgIHNlbGYuX2pvYl9vdXRwdXQsIHNlbGYuX2pvYl9zdGRlcnIsIHNlbGYuX2pvYl9pZHMgPSBzZWxmLmV4ZWN1dG9yLnJ1bl9yYXdfaGl2ZV9xdWVyeSgKICAgICAgICAgICAgc2VsZi5fZ2V0X3F1ZXJ5X3RlbXBsYXRlKCkgJSBzZWxmLnBhcmFtcywKICAgICAgICAgICAgdXBsb2FkX2FyY2hpdmU9c2VsZi5fVVBMT0FEX0FSQ0hJVkUpCiAgICAgICAgcGludGVyZXN0X2hpdmVfcmVzdWx0ID0gc2VsZi5fam9iX291dHB1dAogICAgICAgIExPRy5pbmZvKCJQaW50ZXJlc3QgSGl2ZSByZXN1bHQ6XG4lcyIsIHBwcmludC5wZm9ybWF0KHBpbnRlcmVzdF9oaXZlX3Jlc3VsdCkpCgogICAgICAgICMgZXhlY3V0ZSBxdWVyeSB0aHJvdWdoIFF1Ym9sZSBIaXZlCiAgICAgICAgc2VsZi5fVVNFX1BJTlRFUkVTVF9ISVZFX0NMSSA9IEZhbHNlCiAgICAgICAgc2VsZi5leGVjdXRvci5jb25maWcuVVNFX1BJTlRFUkVTVF9ISVZFX0NMSSA9IEZhbHNlCiAgICAgICAgc2VsZi5leGVjdXRvci5jb25maWcuVVNFX1BJTlRFUkVTVF9ISVZFX1RIUklGVF9DTElFTlQgPSBGYWxzZQogICAgICAgIHNlbGYuX2pvYl9vdXRwdXQsIHNlbGYuX2pvYl9zdGRlcnIsIHNlbGYuX2pvYl9pZHMgPSBzZWxmLmV4ZWN1dG9yLnJ1bl9yYXdfaGl2ZV9xdWVyeSgKICAgICAgICAgICAgc2VsZi5fZ2V0X3F1ZXJ5X3RlbXBsYXRlKCkgJSBzZWxmLnBhcmFtcywKICAgICAgICAgICAgdXBsb2FkX2FyY2hpdmU9c2VsZi5fVVBMT0FEX0FSQ0hJVkUpCiAgICAgICAgcXVib2xlX2hpdmVfcmVzdWx0ID0gc2VsZi5fam9iX291dHB1dAogICAgICAgIExPRy5pbmZvKCJRdWJvbGUgSGl2ZSByZXN1bHQ6XG4lcyIsIHBwcmludC5wZm9ybWF0KHF1Ym9sZV9oaXZlX3Jlc3VsdCkpCgogICAgICAgIF9jb21wYXJlX3F1Ym9sZV9waW50ZXJlc3RfaGl2ZV9yZXN1bHRzKHF1Ym9sZV9oaXZlX3Jlc3VsdCwgcGludGVyZXN0X2hpdmVfcmVzdWx0KQogICAgICAgIHNlbGYuX2pvYl9vdXRwdXQgPSBOb25l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgLS1TRVQgaGl2ZS5pbnB1dC5mb3JtYXQ9b3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5xbC5pby5Db21iaW5lSGl2ZUlucHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsKICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBleGVjdXRlIHF1ZXJ5IHRocm91Z2ggUGludGVyZXN0IEhpdmUKICAgICAgICBzZWxmLl9VU0VfUElOVEVSRVNUX0hJVkVfQ0xJID0gVHJ1ZQogICAgICAgIHNlbGYuZXhlY3V0b3IuY29uZmlnLlVTRV9QSU5URVJFU1RfSElWRV9DTEkgPSBUcnVlCiAgICAgICAgc2VsZi5leGVjdXRvci5jb25maWcuVVNFX1BJTlRFUkVTVF9ISVZFX1RIUklGVF9DTElFTlQgPSBGYWxzZQogICAgICAgIHNlbGYuX2pvYl9vdXRwdXQsIHNlbGYuX2pvYl9zdGRlcnIsIHNlbGYuX2pvYl9pZHMgPSBzZWxmLmV4ZWN1dG9yLnJ1bl9yYXdfaGl2ZV9xdWVyeSgKICAgICAgICAgICAgc2VsZi5fZ2V0X3F1ZXJ5X3RlbXBsYXRlKCkgJSBzZWxmLnBhcmFtcywKICAgICAgICAgICAgdXBsb2FkX2FyY2hpdmU9c2VsZi5fVVBMT0FEX0FSQ0hJVkUpCiAgICAgICAgcGludGVyZXN0X2hpdmVfcmVzdWx0ID0gc2VsZi5fam9iX291dHB1dAogICAgICAgIExPRy5pbmZvKCJQaW50ZXJlc3QgSGl2ZSByZXN1bHQ6XG4lcyIsIHBwcmludC5wZm9ybWF0KHBpbnRlcmVzdF9oaXZlX3Jlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2dldF9hcmNoaXZlX3F1ZXJ5X3N0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsKICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsKICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsKCiAgICAgICAgICAgIFNFVCBtYXByZWQuam9iLnByaW9yaXR5PVZFUllfSElHSDsKICAgICAgICAgICAgU0VUIG1hcHJlZC5taW4uc3BsaXQuc2l6ZS5wZXIubm9kZT0xMDAwMDAwMDAwOwogICAgICAgICAgICBTRVQgbWFwcmVkLm1pbi5zcGxpdC5zaXplLnBlci5yYWNrPTEwMDAwMDAwMDA7CiAgICAgICAgICAgIFNFVCBtYXByZWQubWF4LnNwbGl0LnNpemU9MTAwMDAwMDAwMDsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBleGVjdXRlIHF1ZXJ5IHRocm91Z2ggUGludGVyZXN0IEhpdmUKICAgICAgICBzZWxmLl9VU0VfUElOVEVSRVNUX0hJVkVfQ0xJID0gVHJ1ZQogICAgICAgIHNlbGYuZXhlY3V0b3IuY29uZmlnLlVTRV9QSU5URVJFU1RfSElWRV9DTEkgPSBUcnVlCiAgICAgICAgc2VsZi5leGVjdXRvci5jb25maWcuVVNFX1BJTlRFUkVTVF9ISVZFX1RIUklGVF9DTElFTlQgPSBGYWxzZQogICAgICAgIHNlbGYuX2pvYl9vdXRwdXQsIHNlbGYuX2pvYl9zdGRlcnIsIHNlbGYuX2pvYl9pZHMgPSBzZWxmLmV4ZWN1dG9yLnJ1bl9yYXdfaGl2ZV9xdWVyeSgKICAgICAgICAgICAgc2VsZi5fZ2V0X3F1ZXJ5X3RlbXBsYXRlKCkgJSBzZWxmLnBhcmFtcywKICAgICAgICAgICAgdXBsb2FkX2FyY2hpdmU9c2VsZi5fVVBMT0FEX0FSQ0hJVkUpCiAgICAgICAgcGludGVyZXN0X2hpdmVfcmVzdWx0ID0gc2VsZi5fam9iX291dHB1dAogICAgICAgIExPRy5pbmZvKCJQaW50ZXJlc3QgSGl2ZSByZXN1bHQ6XG4lcyIsIHBwcmludC5wZm9ybWF0KHBpbnRlcmVzdF9oaXZlX3Jlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tU0VMRUNUIFRSQU5TRk9STShkdCwgcmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UoanNvbiwgJ1xcbicsICcnKSwgJ1xcdCcsICcnKSwgJ1xccicsICcnKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
-      <register name="-" type="4">
-        <text>0</text>
-      </register>
-      <register name="/" type="4">
-        <text>_store</text>
-      </register>
     </registers>
     <search>
-      <last-search>_store</last-search>
+      <last-search>_USE</last-search>
       <last-offset />
-      <last-pattern>_store</last-pattern>
+      <last-pattern>_USE</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>run_hive</entry>
         <entry>s3cmd get s3:</entry>
         <entry>use_archive</entry>
         <entry>LOG</entry>
@@ -206,7 +234,6 @@
         <entry>Compact</entry>
         <entry>pinflow_workflows</entry>
         <entry>_get_archive_query_string</entry>
-        <entry>&quot;</entry>
         <entry>30</entry>
         <entry>cleanup</entry>
         <entry>run_co</entry>
@@ -216,6 +243,8 @@
         <entry>PINBALL_MASTER</entry>
         <entry>store</entry>
         <entry>_store</entry>
+        <entry>&quot;</entry>
+        <entry>_USE</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
