@@ -28,12 +28,12 @@
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484019724525">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484031506298">
         <mark key="'" line="31" column="13" />
-        <mark key="[" line="152" column="5" />
-        <mark key="]" line="152" column="5" />
-        <mark key="." line="152" column="5" />
-        <mark key="^" line="152" column="5" />
+        <mark key="[" line="148" column="8" />
+        <mark key="]" line="148" column="8" />
+        <mark key="." line="148" column="8" />
+        <mark key="^" line="123" column="7" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484022587155">
         <mark key="'" line="236" column="4" />
@@ -60,12 +60,12 @@
       <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484029621691">
+      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484031330600">
         <mark key="'" line="232" column="55" />
-        <mark key="[" line="234" column="33" />
-        <mark key="]" line="234" column="36" />
-        <mark key="^" line="234" column="36" />
-        <mark key="." line="234" column="36" />
+        <mark key="[" line="234" column="40" />
+        <mark key="]" line="234" column="41" />
+        <mark key="^" line="234" column="41" />
+        <mark key="." line="234" column="41" />
       </file>
       <file name="$USER_HOME$/code/pinflow/pinflow/cli.py" timestamp="1484012774706">
         <mark key="'" line="823" column="44" />
@@ -184,43 +184,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>MAPREDUCE_JOB_TAGS_PARAM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIENPTExFQ1RJT04gSVRFTVMgVEVSTUlOQVRFRCBCWSBcXHh7fVxuIiBcCg==</text>
+        <text encoding="base64">ICAgICMgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgIyAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAjIC0tU0VUIG1hcHJlZC5vdXRwdXQuY29tcHJlc3Npb24uY29kZWM9b3JnLmFwYWNoZS5oYWRvb3AuaW8uY29tcHJlc3MuR3ppcENvZGVjOwogICAgIyAtLVNFVCBoaXZlLmV4ZWMuY29tcHJlc3Mub3V0cHV0PXRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmQoT1VUUFVUX0xJTkVfVEVSTUlOQVRPUiksCg==</text>
+        <text encoding="base64">ICAgICMgLS1TRVQgaGl2ZS5pbnB1dC5mb3JtYXQ9b3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5xbC5pby5Db21iaW5lSGl2ZUlucHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmQoT1VUUFVUX0xJTkVfVEVSTUlOQVRPUiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSAnXFx4ezowMn0nXG4iIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmQoT1VUUFVUX0xJTkVfVEVSTUlOQVRPUiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSBcXHh7OjAyfVxuIiBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSAnXFx4ezowMn0nXG4iIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIExJTkVTIFRFUk1JTkFURUQgQlkgXFx4ezowMn1cbiIgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSBcXHh7OjAyfVxuIiBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIExJTkVTIFRFUk1JTkFURUQgQlkgXFx4ezowMn1cbiIgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgIiIiCg==</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCg==</text>
+        <text encoding="base64">ICAgICMgICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgIC0tU0VUIG1hcHJlZC5vdXRwdXQuY29tcHJlc3Npb24udHlwZT1CTE9DSzsKICAgICAgICAtLVNFVCBoaXZlLmlucHV0LmZvcm1hdD1vcmcuYXBhY2hlLmhhZG9vcC5oaXZlLnFsLmlvLkNvbWJpbmVIaXZlSW5wdXRGb3JtYXQ7CiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgLS1TRVQgaGl2ZS5leGVjLmNvbXByZXNzLm91dHB1dD10cnVlOwo=</text>
+        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
