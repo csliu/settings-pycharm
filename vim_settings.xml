@@ -4,17 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" timestamp="1484002230659">
-        <mark key="'" line="1266" column="16" />
+        <mark key="'" line="1286" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1483998200036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" timestamp="1484004470466">
         <mark key="'" line="29" column="30" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="44" column="20" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="44" column="20" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" timestamp="1484004098434">
         <mark key="'" line="516" column="26" />
@@ -26,10 +22,11 @@
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484002658529">
-        <mark key="[" line="30" column="67" />
-        <mark key="]" line="30" column="68" />
-        <mark key="." line="30" column="68" />
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484006720510">
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="123" column="13" />
+        <mark key="." line="123" column="13" />
+        <mark key="^" line="123" column="13" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484002110697">
         <mark key="'" line="700" column="32" />
