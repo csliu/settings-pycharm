@@ -28,7 +28,7 @@
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484011133681">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484012168108">
         <mark key="'" line="31" column="13" />
         <mark key="[" line="152" column="5" />
         <mark key="]" line="152" column="5" />
@@ -56,12 +56,18 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1483735838016">
         <mark key="'" line="102" column="11" />
         <mark key="[" line="97" column="8" />
         <mark key="]" line="97" column="11" />
         <mark key="^" line="97" column="11" />
         <mark key="." line="97" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/pinflow/pinflow/cli.py" timestamp="1484012774706">
+        <mark key="'" line="823" column="44" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/tools/workflow_util.py" timestamp="1484003867235">
         <mark key="'" line="1179" column="22" />
@@ -169,6 +175,10 @@
       <jump line="96" column="48" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="31" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="41" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
+      <jump line="138" column="18" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
+      <jump line="823" column="44" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -178,7 +188,7 @@
         <text>--</text>
       </register>
       <register name="/" type="4">
-        <text>_USE</text>
+        <text>create_workflow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0tU0VMRUNUIFRSQU5TRk9STShkdCwgcmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UoanNvbiwgJ1xcbicsICcnKSwgJ1xcdCcsICcnKSwgJ1xccicsICcnKSkK</text>
@@ -215,9 +225,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_USE</last-search>
+      <last-search>create_workflow</last-search>
       <last-offset />
-      <last-pattern>_USE</last-pattern>
+      <last-pattern>create_workflow</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -225,10 +235,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s3cmd get s3:</entry>
-        <entry>use_archive</entry>
-        <entry>LOG</entry>
-        <entry>run_raw</entry>
         <entry>exexute</entry>
         <entry>execute</entry>
         <entry>Compact</entry>
@@ -245,6 +251,10 @@
         <entry>_store</entry>
         <entry>&quot;</entry>
         <entry>_USE</entry>
+        <entry>verification</entry>
+        <entry>CompactViewComparisonJob</entry>
+        <entry>run_wf</entry>
+        <entry>create_workflow</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
