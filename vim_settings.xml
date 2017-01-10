@@ -32,18 +32,19 @@
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484012168108">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484019724525">
         <mark key="'" line="31" column="13" />
         <mark key="[" line="152" column="5" />
         <mark key="]" line="152" column="5" />
         <mark key="." line="152" column="5" />
         <mark key="^" line="152" column="5" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484007532093">
-        <mark key="'" line="464" column="0" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="0" />
-        <mark key="." line="456" column="0" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484022587155">
+        <mark key="'" line="236" column="4" />
+        <mark key="[" line="448" column="35" />
+        <mark key="]" line="448" column="36" />
+        <mark key="." line="448" column="36" />
+        <mark key="^" line="448" column="36" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
         <mark key="'" line="114" column="37" />
@@ -63,12 +64,12 @@
       <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1483735838016">
-        <mark key="'" line="102" column="11" />
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="11" />
-        <mark key="^" line="97" column="11" />
-        <mark key="." line="97" column="11" />
+      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484023187335">
+        <mark key="'" line="233" column="44" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/code/pinflow/pinflow/cli.py" timestamp="1484012774706">
         <mark key="'" line="823" column="44" />
@@ -84,19 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="11" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="105" column="37" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="192" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="231" column="61" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="1396" column="30" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
-      <jump line="1983" column="67" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
-      <jump line="638" column="43" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
-      <jump line="651" column="20" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
-      <jump line="696" column="75" filename="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" />
-      <jump line="1116" column="6" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="434" column="21" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="491" column="38" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="555" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="578" column="13" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
@@ -183,55 +171,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
       <jump line="138" column="18" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
       <jump line="823" column="44" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
+      <jump line="685" column="8" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="707" column="29" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="713" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="716" column="49" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="717" column="49" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="23" column="30" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="24" column="27" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
+      <jump line="690" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="706" column="20" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="241" column="29" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
+      <jump line="228" column="19" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
+      <jump line="236" column="4" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="231" column="44" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>create_workflow</text>
+        <text>MAPREDUCE_JOB_TAGS_PARAM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tU0VMRUNUIFRSQU5TRk9STShkdCwgcmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UocmVnZXhwX3JlcGxhY2UoanNvbiwgJ1xcbicsICcnKSwgJ1xcdCcsICcnKSwgJ1xccicsICcnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIENPTExFQ1RJT04gSVRFTVMgVEVSTUlOQVRFRCBCWSBcXHh7fVxuIiBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmQoT1VUUFVUX0xJTkVfVEVSTUlOQVRPUiksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmQoT1VUUFVUX0xJTkVfVEVSTUlOQVRPUiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgIC0tU0VUIG1hcHJlZC5vdXRwdXQuY29tcHJlc3Npb24udHlwZT1CTE9DSzsKICAgICAgICAtLVNFVCBoaXZlLmlucHV0LmZvcm1hdD1vcmcuYXBhY2hlLmhhZG9vcC5oaXZlLnFsLmlvLkNvbWJpbmVIaXZlSW5wdXRGb3JtYXQ7CiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgLS1TRVQgaGl2ZS5leGVjLmNvbXByZXNzLm91dHB1dD10cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSAnXFx4ezowMn0nXG4iIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzPXRydWU7CiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi50eXBlPUJMT0NLOwogICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSBcXHh7OjAyfVxuIiBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgLS1TRVQgaGl2ZS5pbnB1dC5mb3JtYXQ9b3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5xbC5pby5Db21iaW5lSGl2ZUlucHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIExJTkVTIFRFUk1JTkFURUQgQlkgXFx4ezowMn1cbiIgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsKICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsKCg==</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgICAgIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsKICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsKCg==</text>
+        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgICAgICAtLVNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuaW5wdXQuZm9ybWF0PW9yZy5hcGFjaGUuaGFkb29wLmhpdmUucWwuaW8uQ29tYmluZUhpdmVJbnB1dEZvcm1hdDsKICAgICAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgICAgIC0tU0VUIGhpdmUuZXhlYy5jb21wcmVzcy5vdXRwdXQ9dHJ1ZTsKCiAgICAgICAgICAgIFNFVCBtYXByZWQuam9iLnByaW9yaXR5PVZFUllfSElHSDsKICAgICAgICAgICAgU0VUIG1hcHJlZC5taW4uc3BsaXQuc2l6ZS5wZXIubm9kZT0xMDAwMDAwMDAwOwogICAgICAgICAgICBTRVQgbWFwcmVkLm1pbi5zcGxpdC5zaXplLnBlci5yYWNrPTEwMDAwMDAwMDA7CiAgICAgICAgICAgIFNFVCBtYXByZWQubWF4LnNwbGl0LnNpemU9MTAwMDAwMDAwMDsKCg==</text>
+        <text encoding="base64">CiAgICAgICAgLS1OT1RFOiBmb3Igbm93LCB3ZSBjYW4ndCBwdXQgY29tbWVudCBzdGF0ZW1lbnQgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcXVlcnkuCiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgIC0tU0VUIG1hcHJlZC5vdXRwdXQuY29tcHJlc3Npb24udHlwZT1CTE9DSzsKICAgICAgICAtLVNFVCBoaXZlLmlucHV0LmZvcm1hdD1vcmcuYXBhY2hlLmhhZG9vcC5oaXZlLnFsLmlvLkNvbWJpbmVIaXZlSW5wdXRGb3JtYXQ7CiAgICAgICAgLS1TRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzc2lvbi5jb2RlYz1vcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5HemlwQ29kZWM7CiAgICAgICAgLS1TRVQgaGl2ZS5leGVjLmNvbXByZXNzLm91dHB1dD10cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>create_workflow</last-search>
+      <last-search>MAPREDUCE_JOB_TAGS_PARAM</last-search>
       <last-offset />
-      <last-pattern>create_workflow</last-pattern>
+      <last-pattern>MAPREDUCE_JOB_TAGS_PARAM</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -239,12 +241,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exexute</entry>
-        <entry>execute</entry>
-        <entry>Compact</entry>
-        <entry>pinflow_workflows</entry>
-        <entry>_get_archive_query_string</entry>
-        <entry>30</entry>
         <entry>cleanup</entry>
         <entry>run_co</entry>
         <entry>run_com</entry>
@@ -259,6 +255,12 @@
         <entry>CompactViewComparisonJob</entry>
         <entry>run_wf</entry>
         <entry>create_workflow</entry>
+        <entry>hive_utils</entry>
+        <entry>INSERT</entry>
+        <entry>read_</entry>
+        <entry>FIELDS TERMINATED BY</entry>
+        <entry>MAPREDUCE_JOB_TAGS_</entry>
+        <entry>MAPREDUCE_JOB_TAGS_PARAM</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
