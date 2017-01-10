@@ -13,8 +13,12 @@
       <file name="/Dummy.txt" timestamp="1483998200036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" timestamp="1484004470466">
+      <file name="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" timestamp="1484014138445">
         <mark key="'" line="29" column="30" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="17" />
+        <mark key="^" line="48" column="30" />
+        <mark key="." line="46" column="17" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" timestamp="1484004098434">
         <mark key="'" line="516" column="26" />
@@ -182,10 +186,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>--</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>--</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>create_workflow</text>
