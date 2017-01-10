@@ -28,7 +28,7 @@
       <file name="/a.dummy" timestamp="1483998199999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484076394565">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484078634314">
         <mark key="'" line="31" column="13" />
         <mark key="[" line="120" column="54" />
         <mark key="]" line="121" column="53" />
@@ -36,11 +36,7 @@
         <mark key="." line="121" column="53" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484063477386">
-        <mark key="'" line="694" column="66" />
-        <mark key="[" line="452" column="23" />
-        <mark key="]" line="452" column="29" />
-        <mark key="." line="452" column="29" />
-        <mark key="^" line="452" column="29" />
+        <mark key="'" line="716" column="66" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
         <mark key="'" line="114" column="37" />
@@ -54,7 +50,7 @@
       <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484063454141">
+      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484078754331">
         <mark key="'" line="232" column="55" />
         <mark key="[" line="221" column="4" />
         <mark key="]" line="221" column="4" />
