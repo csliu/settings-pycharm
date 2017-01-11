@@ -69,12 +69,12 @@
         <mark key="^" line="121" column="53" />
         <mark key="." line="121" column="53" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484112062810">
-        <mark key="'" line="466" column="32" />
-        <mark key="[" line="495" column="62" />
-        <mark key="]" line="495" column="62" />
-        <mark key="^" line="495" column="62" />
-        <mark key="." line="495" column="62" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484113098378">
+        <mark key="'" line="712" column="9" />
+        <mark key="[" line="732" column="20" />
+        <mark key="]" line="732" column="22" />
+        <mark key="^" line="732" column="22" />
+        <mark key="." line="732" column="22" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
         <mark key="'" line="114" column="37" />
@@ -100,8 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="116" column="6" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="455" column="72" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="11" column="5" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="12" column="5" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
@@ -200,6 +198,8 @@
       <jump line="707" column="9" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="726" column="69" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="466" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="508" column="33" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="712" column="9" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -209,7 +209,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>hive_out</text>
+        <text>process_hive</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -246,9 +246,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hive_out</last-search>
+      <last-search>process_hive</last-search>
       <last-offset />
-      <last-pattern>hive_out</last-pattern>
+      <last-pattern>process_hive</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -274,8 +274,8 @@
         <entry>cmd_stdout</entry>
         <entry>YarnHadoop</entry>
         <entry>LogPro</entry>
-        <entry>process_hive</entry>
         <entry>hive_out</entry>
+        <entry>process_hive</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
