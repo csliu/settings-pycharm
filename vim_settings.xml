@@ -80,8 +80,8 @@
       <file name="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" timestamp="1483998358248">
         <mark key="'" line="384" column="9" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484171075065">
+        <mark key="'" line="8678" column="28" />
       </file>
       <file name="$USER_HOME$/code/pinboard/tests/reporter/utils/test_hive_utils.py" timestamp="1484077666723">
         <mark key="'" line="206" column="13" />
@@ -96,8 +96,6 @@
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/config/prod_settings.py" timestamp="1484165394445" />
     </filemarks>
     <jumps>
-      <jump line="69" column="13" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="17" column="47" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="29" column="30" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="29" column="23" filename="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" />
@@ -196,6 +194,8 @@
       <jump line="65" column="8" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="24" column="21" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="150" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
+      <jump line="7934" column="31" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="8678" column="28" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -205,7 +205,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>echo</text>
+        <text>StingrayBarbFixZenSharedMixedOutgoingCountsJob</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -242,9 +242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>echo</last-search>
+      <last-search>StingrayBarbFixZenSharedMixedOutgoingCountsJob</last-search>
       <last-offset />
-      <last-pattern>echo</last-pattern>
+      <last-pattern>StingrayBarbFixZenSharedMixedOutgoingCountsJob</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -252,8 +252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MAPREDUCE_JOB_TAGS_</entry>
-        <entry>MAPREDUCE_JOB_TAGS_PARAM</entry>
         <entry>wrap_</entry>
         <entry>hive_query</entry>
         <entry>_read_hive_output_from_s3</entry>
@@ -272,6 +270,8 @@
         <entry>process</entry>
         <entry>filed by</entry>
         <entry>echo</entry>
+        <entry>reporter</entry>
+        <entry>StingrayBarbFixZenSharedMixedOutgoingCountsJob</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
