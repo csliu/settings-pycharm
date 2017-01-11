@@ -10,9 +10,6 @@
         <mark key="^" line="175" column="13" />
         <mark key="." line="175" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483998200036">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" timestamp="1484014138445">
         <mark key="'" line="29" column="30" />
       </file>
@@ -22,14 +19,41 @@
       <file name="/Python Console" timestamp="1483215445590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1483998199999">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_yarn_executor.py" timestamp="1484104510580">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="508" column="44" />
+        <mark key="]" line="508" column="44" />
+        <mark key="^" line="508" column="44" />
+        <mark key="." line="508" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484103978180">
+        <mark key="'" line="228" column="43" />
+        <mark key="[" line="221" column="4" />
+        <mark key="]" line="221" column="4" />
+        <mark key="^" line="234" column="41" />
+        <mark key="." line="221" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484086550535" />
+      <file name="$USER_HOME$/code/pinboard/reporter/pinball/tools/workflow_util.py" timestamp="1484003867235">
+        <mark key="'" line="1179" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1484082585528">
+        <mark key="'" line="2730" column="16" />
+        <mark key="[" line="1413" column="29" />
+        <mark key="]" line="1413" column="29" />
+        <mark key="." line="1413" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483998200036">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1484086864750">
         <mark key="'" line="54" column="32" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" timestamp="1484086123576">
         <mark key="'" line="273" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1483998199999">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484078634314">
         <mark key="'" line="31" column="13" />
@@ -38,8 +62,12 @@
         <mark key="^" line="121" column="53" />
         <mark key="." line="121" column="53" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484086801279">
-        <mark key="'" line="951" column="6" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484104238655">
+        <mark key="'" line="495" column="62" />
+        <mark key="[" line="495" column="55" />
+        <mark key="]" line="495" column="62" />
+        <mark key="^" line="495" column="62" />
+        <mark key="." line="495" column="62" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
         <mark key="'" line="114" column="37" />
@@ -53,13 +81,6 @@
       <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484012217559">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484078754331">
-        <mark key="'" line="232" column="55" />
-        <mark key="[" line="221" column="4" />
-        <mark key="]" line="221" column="4" />
-        <mark key="^" line="234" column="41" />
-        <mark key="." line="221" column="4" />
-      </file>
       <file name="$USER_HOME$/code/pinboard/tests/reporter/utils/test_hive_utils.py" timestamp="1484077666723">
         <mark key="'" line="206" column="13" />
         <mark key="[" line="226" column="45" />
@@ -67,26 +88,11 @@
         <mark key="^" line="226" column="45" />
         <mark key="." line="226" column="45" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484086550535" />
       <file name="$USER_HOME$/code/pinflow/pinflow/cli.py" timestamp="1484012774706">
         <mark key="'" line="823" column="44" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/pinball/tools/workflow_util.py" timestamp="1484003867235">
-        <mark key="'" line="1179" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/job_runner/data_job.py" timestamp="1484082585528">
-        <mark key="'" line="2730" column="16" />
-        <mark key="[" line="1413" column="29" />
-        <mark key="]" line="1413" column="29" />
-        <mark key="." line="1413" column="29" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="14" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="159" column="45" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
-      <jump line="689" column="19" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="445" column="33" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="449" column="43" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="505" column="12" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="161" column="58" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="1330" column="29" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
@@ -151,7 +157,6 @@
       <jump line="138" column="18" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
       <jump line="823" column="44" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
       <jump line="685" column="8" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="707" column="29" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="713" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="716" column="49" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="717" column="49" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
@@ -161,7 +166,6 @@
       <jump line="690" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="706" column="20" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="241" column="29" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
-      <jump line="228" column="19" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
       <jump line="236" column="4" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="231" column="44" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
       <jump line="232" column="55" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
@@ -182,16 +186,23 @@
       <jump line="274" column="28" filename="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" />
       <jump line="273" column="28" filename="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" />
       <jump line="951" column="6" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="459" column="12" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_yarn_executor.py" />
+      <jump line="707" column="8" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="489" column="32" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="721" column="22" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="228" column="43" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
+      <jump line="495" column="62" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>hive_query</text>
+        <text>read_hive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICIgIFJPVyBGT1JNQVQgREVMSU1JVEVEIFxuIiBcCiAgICAgICAgICAgICAgICAgICAiICAgIEZJRUxEUyBURVJNSU5BVEVEIEJZICdcMDAxJ1xuIiBcCiAgICAgICAgICAgICAgICAgICAiICAgIENPTExFQ1RJT04gSVRFTVMgVEVSTUlOQVRFRCBCWSAnXDAwMlwnXG4iIFwKICAgICAgICAgICAgICAgICAgICIgICAgTUFQIEtFWVMgVEVSTUlOQVRFRCBCWSAnXDAwM1wnXG4iIFwKICAgICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSAnXG4nXG4iIFwKICAgICAgICAgICAgICAgICAgICIgIFNUT1JFRCBBUyBURVhURklMRVxuIiBcCg==</text>
@@ -228,9 +239,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hive_query</last-search>
+      <last-search>read_hive</last-search>
       <last-offset />
-      <last-pattern>hive_query</last-pattern>
+      <last-pattern>read_hive</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -238,9 +249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>PINBALL_MASTER</entry>
-        <entry>store</entry>
         <entry>_store</entry>
         <entry>&quot;</entry>
         <entry>_USE</entry>
@@ -258,6 +266,9 @@
         <entry>get_table_description</entry>
         <entry>Detailed Table Information</entry>
         <entry>hive_query</entry>
+        <entry>_read_hive_output_from_s3</entry>
+        <entry>_read_hive_output</entry>
+        <entry>read_hive</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
