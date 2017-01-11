@@ -10,12 +10,12 @@
         <mark key="^" line="167" column="29" />
         <mark key="." line="167" column="29" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" timestamp="1484163561312">
-        <mark key="'" line="24" column="21" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="29" />
-        <mark key="^" line="45" column="34" />
-        <mark key="." line="45" column="29" />
+      <file name="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" timestamp="1484173680571">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="17" />
+        <mark key="^" line="46" column="17" />
+        <mark key="." line="46" column="17" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/ui/data_builder.py" timestamp="1484004098434">
         <mark key="'" line="516" column="26" />
@@ -76,9 +76,6 @@
       <file name="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" timestamp="1483998358248">
         <mark key="'" line="384" column="9" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484172083361">
-        <mark key="'" line="8681" column="28" />
-      </file>
       <file name="$USER_HOME$/code/pinboard/tests/reporter/utils/test_hive_utils.py" timestamp="1484077666723">
         <mark key="'" line="206" column="13" />
         <mark key="[" line="226" column="45" />
@@ -92,8 +89,6 @@
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/config/prod_settings.py" timestamp="1484165394445" />
     </filemarks>
     <jumps>
-      <jump line="462" column="0" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="114" column="37" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" />
       <jump line="148" column="10" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="12" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="149" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
@@ -192,16 +187,18 @@
       <jump line="265" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="345" column="31" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="67" column="22" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
+      <jump line="91" column="28" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>30</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -234,13 +231,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJzZWxlY3QgKiBmcm9tIGFiYyBsaW1pdCAxO1xuJyBcCiAgICAgICAgICAgICAgICAgICAnSU5TRVJUIE9WRVJXUklURSBESVJFQ1RPUlkgJyBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
+      <last-pattern>30</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -248,7 +245,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>description</entry>
         <entry>read_hive</entry>
         <entry>cmd_stdout</entry>
@@ -268,11 +264,13 @@
         <entry>run_hive_query</entry>
         <entry>user</entry>
         <entry>username</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>wa/</entry>
         <entry>wa</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
