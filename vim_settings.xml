@@ -52,12 +52,11 @@
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1484086864750">
         <mark key="'" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" timestamp="1484108599509">
-        <mark key="'" line="268" column="8" />
-        <mark key="[" line="275" column="54" />
-        <mark key="]" line="275" column="54" />
-        <mark key="^" line="273" column="25" />
-        <mark key="." line="275" column="54" />
+      <file name="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" timestamp="1484109249346">
+        <mark key="'" line="472" column="38" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484078634314">
         <mark key="'" line="31" column="13" />
@@ -97,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1341" column="29" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="1287" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="1289" column="16" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" />
@@ -197,55 +195,56 @@
       <jump line="275" column="28" filename="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" />
       <jump line="280" column="26" filename="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" />
       <jump line="268" column="8" filename="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" />
+      <jump line="473" column="38" filename="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAicm93cyBhcmU6Iiwgcm93cwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_table_description</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICIgIFJPVyBGT1JNQVQgREVMSU1JVEVEIFxuIiBcCiAgICAgICAgICAgICAgICAgICAiICAgIEZJRUxEUyBURVJNSU5BVEVEIEJZICdcMDAxJ1xuIiBcCiAgICAgICAgICAgICAgICAgICAiICAgIENPTExFQ1RJT04gSVRFTVMgVEVSTUlOQVRFRCBCWSAnXDAwMlwnXG4iIFwKICAgICAgICAgICAgICAgICAgICIgICAgTUFQIEtFWVMgVEVSTUlOQVRFRCBCWSAnXDAwM1wnXG4iIFwKICAgICAgICAgICAgICAgICAgICIgICAgTElORVMgVEVSTUlOQVRFRCBCWSAnXG4nXG4iIFwKICAgICAgICAgICAgICAgICAgICIgIFNUT1JFRCBBUyBURVhURklMRVxuIiBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByb3dzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAicm93cyBhcmU6Iiwgcm93cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcne31cJ1xuJyBcCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByb3dzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJcJ3t9XCdcbicgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcne31cJ1xuJyBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJzZWxlY3QgKiBmcm9tIGFiYyBsaW1pdCAxO1xuJyBcCiAgICAgICAgICAgICAgICAgICAnSU5TRVJUIE9WRVJXUklURSBESVJFQ1RPUlkgJyBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJcJ3t9XCdcbicgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLm1pbi5zcGxpdC5zaXplLnBlci5ub2RlPTEwMDAwMDAwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJzZWxlY3QgKiBmcm9tIGFiYyBsaW1pdCAxO1xuJyBcCiAgICAgICAgICAgICAgICAgICAnSU5TRVJUIE9WRVJXUklURSBESVJFQ1RPUlkgJyBcCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLm1pbi5zcGxpdC5zaXplLnBlci5ub2RlPTEwMDAwMDAwMDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLmpvYi5wcmlvcml0eT1WRVJZX0hJR0g7CiAgICAgICAgU0VUIG1hcHJlZC5taW4uc3BsaXQuc2l6ZS5wZXIubm9kZT0xMDAwMDAwMDAwOwogICAgICAgIFNFVCBtYXByZWQubWluLnNwbGl0LnNpemUucGVyLnJhY2s9MTAwMDAwMDAwMDsKICAgICAgICBTRVQgbWFwcmVkLm1heC5zcGxpdC5zaXplPTEwMDAwMDAwMDA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLm1pbi5zcGxpdC5zaXplLnBlci5ub2RlPTEwMDAwMDAwMDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgIFNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgU0VUIG1hcHJlZC5vdXRwdXQuY29tcHJlc3Npb24uY29kZWM9b3JnLmFwYWNoZS5oYWRvb3AuaW8uY29tcHJlc3MuR3ppcENvZGVjOwogICAgICAgIFNFVCBoaXZlLmV4ZWMuY29tcHJlc3Mub3V0cHV0PXRydWU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLmpvYi5wcmlvcml0eT1WRVJZX0hJR0g7CiAgICAgICAgU0VUIG1hcHJlZC5taW4uc3BsaXQuc2l6ZS5wZXIubm9kZT0xMDAwMDAwMDAwOwogICAgICAgIFNFVCBtYXByZWQubWluLnNwbGl0LnNpemUucGVyLnJhY2s9MTAwMDAwMDAwMDsKICAgICAgICBTRVQgbWFwcmVkLm1heC5zcGxpdC5zaXplPTEwMDAwMDAwMDA7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgLS1TRVQgaGl2ZS5pbnB1dC5mb3JtYXQ9b3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5xbC5pby5Db21iaW5lSGl2ZUlucHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICBTRVQgbWFwcmVkLm91dHB1dC5jb21wcmVzcz10cnVlOwogICAgICAgIFNFVCBtYXByZWQub3V0cHV0LmNvbXByZXNzaW9uLnR5cGU9QkxPQ0s7CiAgICAgICAgU0VUIG1hcHJlZC5vdXRwdXQuY29tcHJlc3Npb24uY29kZWM9b3JnLmFwYWNoZS5oYWRvb3AuaW8uY29tcHJlc3MuR3ppcENvZGVjOwogICAgICAgIFNFVCBoaXZlLmV4ZWMuY29tcHJlc3Mub3V0cHV0PXRydWU7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>get_table_description</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>get_table_description</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -253,7 +252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_store</entry>
         <entry>&quot;</entry>
         <entry>_USE</entry>
         <entry>verification</entry>
@@ -273,6 +271,7 @@
         <entry>read_hive</entry>
         <entry>Detailed Table Information</entry>
         <entry>get_table_description</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
