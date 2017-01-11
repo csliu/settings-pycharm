@@ -69,12 +69,12 @@
         <mark key="^" line="121" column="53" />
         <mark key="." line="121" column="53" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484116565464">
-        <mark key="'" line="732" column="20" />
-        <mark key="[" line="732" column="69" />
-        <mark key="]" line="732" column="71" />
-        <mark key="^" line="732" column="71" />
-        <mark key="." line="732" column="71" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484119290225">
+        <mark key="'" line="731" column="67" />
+        <mark key="[" line="730" column="48" />
+        <mark key="]" line="730" column="48" />
+        <mark key="^" line="730" column="52" />
+        <mark key="." line="730" column="48" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
         <mark key="'" line="114" column="37" />
@@ -197,19 +197,19 @@
       <jump line="496" column="28" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="499" column="37" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="727" column="4" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="731" column="9" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="739" column="20" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="734" column="20" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="731" column="67" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>field</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>field</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>filed by</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -246,9 +246,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>filed by</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern>filed by</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read_</entry>
         <entry>FIELDS TERMINATED BY</entry>
         <entry>MAPREDUCE_JOB_TAGS_</entry>
         <entry>MAPREDUCE_JOB_TAGS_PARAM</entry>
@@ -276,6 +275,7 @@
         <entry>_process</entry>
         <entry>process_hive</entry>
         <entry>process</entry>
+        <entry>filed by</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
