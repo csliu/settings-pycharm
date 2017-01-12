@@ -30,6 +30,9 @@
         <mark key="^" line="520" column="42" />
         <mark key="." line="520" column="42" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/executor/config.py" timestamp="1484179268524">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484103978180">
         <mark key="'" line="228" column="43" />
         <mark key="[" line="221" column="4" />
@@ -89,7 +92,6 @@
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/config/prod_settings.py" timestamp="1484165394445" />
     </filemarks>
     <jumps>
-      <jump line="148" column="10" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="12" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="149" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="117" column="18" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
@@ -189,6 +191,7 @@
       <jump line="67" column="22" filename="$USER_HOME$/code/pinboard/reporter/executor/yarn_executor.py" />
       <jump line="91" column="28" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -198,7 +201,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>30</text>
+        <text>PLATFORM</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -235,9 +238,9 @@
       </register>
     </registers>
     <search>
-      <last-search>30</last-search>
+      <last-search>PLATFORM</last-search>
       <last-offset />
-      <last-pattern>30</last-pattern>
+      <last-pattern>PLATFORM</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -245,7 +248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>description</entry>
         <entry>read_hive</entry>
         <entry>cmd_stdout</entry>
         <entry>YarnHadoop</entry>
@@ -265,6 +267,7 @@
         <entry>user</entry>
         <entry>username</entry>
         <entry>30</entry>
+        <entry>PLATFORM</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
