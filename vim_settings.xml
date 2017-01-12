@@ -21,7 +21,7 @@
       <file name="/Python Console" timestamp="1483215445590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484197027979">
+      <file name="/a.dummy" timestamp="1484205019043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_yarn_executor.py" timestamp="1484116585512">
@@ -57,12 +57,12 @@
         <mark key="^" line="234" column="41" />
         <mark key="." line="221" column="4" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484189530241">
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484204922109">
         <mark key="'" line="18" column="60" />
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="39" column="30" />
-        <mark key="." line="39" column="30" />
-        <mark key="^" line="39" column="30" />
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="51" column="41" />
+        <mark key="." line="51" column="41" />
+        <mark key="^" line="51" column="41" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/tools/workflow_util.py" timestamp="1484003867235">
         <mark key="'" line="1179" column="22" />
@@ -244,11 +244,11 @@
       <jump line="90" column="49" filename="$USER_HOME$/code/pinboard/teletraan/pinflow-workflows/POST_RESTART" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IG1pc2NfdXRpbAo=</text>
+      <register name="&quot;" type="4">
+        <text>common</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>common</text>
       </register>
       <register name="/" type="4">
         <text>workflow_stats</text>
@@ -257,31 +257,31 @@
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IG1pc2NfdXRpbAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IHV0aWxzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IHV0aWxzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIlJlbGF0ZWRQaW5zUmF3RGF0YVdvcmtmbG93IjoKICAgICAgICAgICAgICAgICJwaW5mbG93X3dvcmtmbG93cy5yZWxhdGVkX3BpbnMucmF3X2RhdGEuUmVsYXRlZFBpbnNSYXdEYXRhV29ya2Zsb3ciLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ1BpbmZsb3dXb3JrZmxvd1N0YXRzJzoKICAgICAgICAgICAgICAgICdwaW5mbG93X3dvcmtmbG93cy5jb21tb24ucGluZmxvd19yZXBvcnRfd29ya2Zsb3cuUGluZmxvd1dvcmtmbG93U3RhdHMnLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IG1pc2NfdXRpbAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpkZWYgZ2V0X3V0Y195ZXN0ZXJkYXlfZGF0ZXRpbWUoKToKICAgIHJldHVybiBkYXRldGltZS51dGNub3coKSAtIHRpbWVkZWx0YShkYXlzPTEpCg==</text>
+        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IHV0aWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IHV0aWxzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24gaW1wb3J0IHN5c191dGlsCg==</text>
+        <text encoding="base64">CgpkZWYgZ2V0X3V0Y195ZXN0ZXJkYXlfZGF0ZXRpbWUoKToKICAgIHJldHVybiBkYXRldGltZS51dGNub3coKSAtIHRpbWVkZWx0YShkYXlzPTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwaW5mbG93X3dvcmtmbG93cy5jb21tb24udXRpbHMgaW1wb3J0IGdldF9yYW5kb21fdGV4dAo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
