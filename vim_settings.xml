@@ -33,6 +33,7 @@
       <file name="$USER_HOME$/code/pinboard/reporter/executor/config.py" timestamp="1484179268524">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" timestamp="1484187525952" />
       <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484103978180">
         <mark key="'" line="228" column="43" />
         <mark key="[" line="221" column="4" />
@@ -40,7 +41,9 @@
         <mark key="^" line="234" column="41" />
         <mark key="." line="221" column="4" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484086550535" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484187429726">
+        <mark key="'" line="16" column="60" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/tools/workflow_util.py" timestamp="1484003867235">
         <mark key="'" line="1179" column="22" />
       </file>
@@ -50,8 +53,8 @@
         <mark key="]" line="1413" column="29" />
         <mark key="." line="1413" column="29" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1484086864750">
-        <mark key="'" line="54" column="32" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1484187585000">
+        <mark key="'" line="143" column="24" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/executor/base_executor.py" timestamp="1484110853514">
         <mark key="'" line="472" column="38" />
@@ -67,8 +70,11 @@
         <mark key="^" line="121" column="53" />
         <mark key="." line="121" column="53" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484172526859">
-        <mark key="'" line="461" column="8" />
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/qubole.py" timestamp="1484187561598">
+        <mark key="'" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484187602364">
+        <mark key="'" line="465" column="23" />
       </file>
       <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484007770894">
         <mark key="'" line="114" column="37" />
@@ -92,13 +98,6 @@
       <file name="$USER_HOME$/code/pinboard/reporter/pinball/config/prod_settings.py" timestamp="1484165394445" />
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="149" column="8" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="117" column="18" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="119" column="24" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="37" column="38" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
-      <jump line="85" column="4" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="96" column="48" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="31" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
       <jump line="41" column="13" filename="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" />
@@ -192,6 +191,13 @@
       <jump line="91" column="28" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/config.py" />
+      <jump line="130" column="82" filename="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" />
+      <jump line="16" column="60" filename="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/qubole.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/qubole.py" />
+      <jump line="138" column="14" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" />
+      <jump line="143" column="24" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" />
+      <jump line="465" column="23" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +207,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>PLATFORM</text>
+        <text>get_commend</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -238,9 +244,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PLATFORM</last-search>
+      <last-search>get_commend</last-search>
       <last-offset />
-      <last-pattern>PLATFORM</last-pattern>
+      <last-pattern>get_commend</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -248,13 +254,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read_hive</entry>
-        <entry>cmd_stdout</entry>
-        <entry>YarnHadoop</entry>
-        <entry>LogPro</entry>
-        <entry>hive_out</entry>
-        <entry>_process</entry>
-        <entry>process_hive</entry>
         <entry>process</entry>
         <entry>filed by</entry>
         <entry>echo</entry>
@@ -268,6 +267,13 @@
         <entry>username</entry>
         <entry>30</entry>
         <entry>PLATFORM</entry>
+        <entry>PinflowSearchMonarchExecutor</entry>
+        <entry>OptimusQuboleCommandGenerator</entry>
+        <entry>Monarch</entry>
+        <entry>DICT</entry>
+        <entry>get_commoand</entry>
+        <entry>command_ge</entry>
+        <entry>get_commend</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
