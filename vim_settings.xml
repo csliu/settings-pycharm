@@ -93,8 +93,8 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484103978180">
-        <mark key="'" line="228" column="43" />
+      <file name="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" timestamp="1484260868292">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="221" column="4" />
         <mark key="]" line="221" column="4" />
         <mark key="^" line="234" column="41" />
@@ -160,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/hadoop/scripts/clean_pinball_db" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/executor/config.py" />
       <jump line="130" column="82" filename="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" />
       <jump line="16" column="60" filename="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" />
@@ -260,6 +259,7 @@
       <jump line="819" column="58" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
       <jump line="153" column="4" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/utils/hive_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -269,7 +269,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>MAPREDUCE_JOB_NAME_KEY</text>
+        <text>_separate_into_commands</text>
       </register>
       <register name="0" type="4">
         <text>hive_utils.OUTPUT_LINE_TERMINATOR</text>
@@ -306,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MAPREDUCE_JOB_NAME_KEY</last-search>
+      <last-search>_separate_into_commands</last-search>
       <last-offset />
-      <last-pattern>MAPREDUCE_JOB_NAME_KEY</last-pattern>
+      <last-pattern>_separate_into_commands</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>30</entry>
         <entry>PLATFORM</entry>
         <entry>PinflowSearchMonarchExecutor</entry>
         <entry>Monarch</entry>
@@ -336,6 +335,7 @@
         <entry>run_hadoop_jar_cmd</entry>
         <entry>job_name</entry>
         <entry>MAPREDUCE_JOB_NAME_KEY</entry>
+        <entry>_separate_into_commands</entry>
       </history-search>
       <history-cmd>
         <entry>wa/</entry>
