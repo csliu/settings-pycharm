@@ -113,6 +113,12 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="49" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/create_test_extracted_db_users.ql" timestamp="1484204019890">
+        <mark key="'" line="114" column="37" />
+        <mark key="[" line="114" column="41" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+      </file>
       <file name="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" timestamp="1483998358248">
         <mark key="'" line="384" column="9" />
       </file>
