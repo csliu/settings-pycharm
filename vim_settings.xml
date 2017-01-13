@@ -30,6 +30,18 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/jobs.py" timestamp="1484334640332">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/idea.properties" timestamp="1483157835948">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" timestamp="1484197377872">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -42,12 +54,12 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484281919078">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_verification_jobs.py" timestamp="1484334579294">
         <mark key="'" line="150" column="0" />
-        <mark key="[" line="120" column="54" />
-        <mark key="]" line="121" column="53" />
-        <mark key="^" line="121" column="53" />
-        <mark key="." line="121" column="53" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" timestamp="1484247275399">
         <mark key="'" line="153" column="4" />
@@ -96,6 +108,12 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/insert_contacts_second_degree_follows_mapper.py" timestamp="1484334624819">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="59" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/reporter/executor/config.py" timestamp="1484179268524">
         <mark key="'" line="0" column="0" />
       </file>
@@ -114,6 +132,12 @@
       <file name="/Dummy.txt" timestamp="1483998200036">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/common/tools/distcp.py" timestamp="1484192089296">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="49" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn.py" timestamp="1484188627877">
         <mark key="'" line="70" column="25" />
       </file>
@@ -125,12 +149,12 @@
         <mark key="^" line="274" column="54" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/common/sys_util.py" timestamp="1484192972625" />
-      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_metastore_jobs.py" timestamp="1484285932548">
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/hive_metastore_jobs.py" timestamp="1484334999412">
         <mark key="'" line="9" column="19" />
-        <mark key="[" line="57" column="39" />
-        <mark key="]" line="57" column="39" />
-        <mark key="^" line="107" column="51" />
-        <mark key="." line="57" column="39" />
+        <mark key="[" line="107" column="52" />
+        <mark key="]" line="107" column="53" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="107" column="53" />
       </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/qubole.py" timestamp="1484187561598">
         <mark key="'" line="7" column="4" />
@@ -141,6 +165,12 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/common/dates.py" timestamp="1484190402016">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/common/utils/misc_util.py" timestamp="1484197082883" />
       <file name="$USER_HOME$/code/pinboard/reporter/columnar_db_dump/queries/create_orc_db_users.ql" timestamp="1484282924622" />
       <file name="$USER_HOME$/code/pinboard/teletraan/pinflow-workflows/POST_RESTART" timestamp="1484197278820">
@@ -149,6 +179,12 @@
         <mark key="]" line="90" column="49" />
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/pinboard/reporter/hive_jobs/data/emit_social_network_follows.py" timestamp="1484334664129">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" timestamp="1483998358248">
         <mark key="'" line="384" column="9" />
@@ -275,10 +311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>presto_query_logs</text>
+        <text>'reporter.hive_jobs.data.emit_social_network_follows')</text>
       </register>
       <register name="-" type="4">
-        <text>presto_query_logs</text>
+        <text>'reporter.hive_jobs.data.emit_social_network_follows')</text>
       </register>
       <register name="/" type="4">
         <text>presto_query</text>
