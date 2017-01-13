@@ -184,13 +184,6 @@
       <file name="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" timestamp="1483998358248">
         <mark key="'" line="384" column="9" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484343838993">
-        <mark key="'" line="7908" column="24" />
-        <mark key="[" line="7974" column="38" />
-        <mark key="]" line="7974" column="41" />
-        <mark key="." line="7974" column="41" />
-        <mark key="^" line="7974" column="41" />
-      </file>
       <file name="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_cmd_gen.py" timestamp="1484197147150">
         <mark key="'" line="17" column="58" />
         <mark key="[" line="17" column="57" />
