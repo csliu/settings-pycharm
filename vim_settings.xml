@@ -42,11 +42,6 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" timestamp="1484197377872">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" timestamp="1484204922109">
         <mark key="'" line="18" column="60" />
         <mark key="[" line="51" column="35" />
@@ -189,12 +184,12 @@
       <file name="$USER_HOME$/code/pinflow/pinflow/job/base_job.py" timestamp="1483998358248">
         <mark key="'" line="384" column="9" />
       </file>
-      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484285998442">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7971" column="51" />
-        <mark key="]" line="7971" column="70" />
-        <mark key="." line="7971" column="70" />
-        <mark key="^" line="7971" column="70" />
+      <file name="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" timestamp="1484343838993">
+        <mark key="'" line="7908" column="24" />
+        <mark key="[" line="7974" column="38" />
+        <mark key="]" line="7974" column="41" />
+        <mark key="." line="7974" column="41" />
+        <mark key="^" line="7974" column="41" />
       </file>
       <file name="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_cmd_gen.py" timestamp="1484197147150">
         <mark key="'" line="17" column="58" />
@@ -208,18 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="60" filename="$USER_HOME$/code/pinboard/pinflow_workflows/pinflow_context.py" />
-      <jump line="981" column="34" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
-      <jump line="735" column="24" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="760" column="34" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="15" column="43" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="273" column="12" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/yarn_executor.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
-      <jump line="7" column="14" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
-      <jump line="8" column="14" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
-      <jump line="133" column="14" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
-      <jump line="134" column="33" filename="$USER_HOME$/code/pinboard/pinflow_workflows/executors/cmd_gen.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_cmd_gen.py" />
       <jump line="19" column="35" filename="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_cmd_gen.py" />
       <jump line="61" column="35" filename="$USER_HOME$/code/pinboard/tests/pinflow_workflows/executors/test_cmd_gen.py" />
@@ -305,19 +288,31 @@
       <jump line="100" column="31" filename="$USER_HOME$/code/pinboard/common/utils/mysql_utils.py" />
       <jump line="107" column="0" filename="$USER_HOME$/code/pinboard/common/utils/mysql_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/common/utils/mysql_utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
       <jump line="816" column="35" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
       <jump line="829" column="4" filename="$USER_HOME$/code/pinflow/pinflow/cli.py" />
+      <jump line="10793" column="5" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7975" column="9" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="235" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="248" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="253" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="254" column="36" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7974" column="41" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7888" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7893" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7898" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7903" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
+      <jump line="7908" column="24" filename="$USER_HOME$/code/pinboard/reporter/workflow/config/pinball_workflows.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'reporter.hive_jobs.data.emit_social_network_follows')</text>
+        <text>reports</text>
       </register>
       <register name="-" type="4">
-        <text>'reporter.hive_jobs.data.emit_social_network_follows')</text>
+        <text>reports</text>
       </register>
       <register name="/" type="4">
-        <text>run_wf</text>
+        <text>reporter.hive_jobs.data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFF1Ym9sZURhdGFKb2JXaXRoUmV0cmllc1RlbXBsYXRlKAogICAgICAgICdQcmVzdG9RdWVyeUxvZ3NQYXJ0aXRpb25SZWNvdmVySm9iJywKICAgICAgICBqb2JfZnVsbF9jbGFzcz0ncmVwb3J0ZXIuaGl2ZV9yZXBvcnRzLnByZXN0b19xdWVyeV9sb2dzLlByZXN0b1F1ZXJ5TG9nc1BhcnRpdGlvblJlY292ZXJKb2InCiAgICApOiBbXSwK</text>
@@ -354,9 +349,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run_wf</last-search>
+      <last-search>reporter.hive_jobs.data</last-search>
       <last-offset />
-      <last-pattern>run_wf</last-pattern>
+      <last-pattern>reporter.hive_jobs.data</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>_USE</last-substitute>
       <last-dir>1</last-dir>
@@ -364,14 +359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DICT</entry>
-        <entry>get_commoand</entry>
-        <entry>command_ge</entry>
-        <entry>get_commend</entry>
-        <entry>OptimusQuboleCommandGenerator</entry>
-        <entry>SearchQuboleExecutor</entry>
-        <entry>WorkflowStats</entry>
-        <entry>utils.get</entry>
         <entry>utils.</entry>
         <entry>get_utc_yesterday_date</entry>
         <entry>utils</entry>
@@ -384,6 +371,14 @@
         <entry>db_config</entry>
         <entry>presto_query</entry>
         <entry>run_wf</entry>
+        <entry>reporter.hive_reports.data</entry>
+        <entry>hive_reports.data</entry>
+        <entry>hive_metastore</entry>
+        <entry>reporter.hive_reports</entry>
+        <entry>hive_verification</entry>
+        <entry>hive_reporter</entry>
+        <entry>hive_meta</entry>
+        <entry>reporter.hive_jobs.data</entry>
       </history-search>
       <history-cmd>
         <entry>wa/</entry>
